@@ -1,0 +1,4 @@
+﻿  15 puzzle.cpp
+C:\Users\timon\source\repos\15 puzzle\15 puzzle.cpp(155): warning C4715: 'UserInput::convertToDirection': not all control paths return a value
+C:\Users\timon\source\repos\15 puzzle\15 puzzle.cpp(114): warning C4715: 'Point::getAdjacentPoint': not all control paths return a value
+  15 puzzle.vcxproj -> C:\Users\timon\source\repos\15 puzzle\Debug\15 puzzle.exe
